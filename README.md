@@ -17,7 +17,7 @@
 ---
 
 ## **Objective**  
-Create an interactive, user-friendly dashboard for XGRIP, a company specializing in mobile phone accessories. The dashboard integrates multi-source data, standardizes currencies, and provides detailed insights into sales, profits, product performance, and returns. It aims to streamline data analysis, helping stakeholders make informed business decisions.
+Created an interactive, user-friendly dashboard for XGRIP, a company specializing in mobile phone accessories. The dashboard integrates multi-source data, standardizes currencies, and provides detailed insights into sales, profits, product performance, and returns. It aims to streamline data analysis, helping stakeholders make informed business decisions.
 
 ---
 
@@ -93,5 +93,4 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 
 ---
 
-### **Copyright:**  
-Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
+
